@@ -3,11 +3,16 @@ Project to learn the relational database using postgreSQL as part of DBMS course
 
 --Implemented following things respectively--
 
-Project Description
-Entity Relationship Diagram
-Relational Model
-DDL schema
-Queries supporting the requirements
-Normal Forms for data redundancy
+1.Project Description
 
-To know more about project read project_description file.
+2.Entity Relationship Diagram
+
+3.Relational Model
+
+4.DDL schema
+
+5.Queries supporting the requirements
+
+6.Normal Forms for data redundancy
+
+7.To know more about project read project_description file.
