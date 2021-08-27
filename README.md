@@ -15,4 +15,4 @@ Project to learn the relational database using postgreSQL as part of DBMS course
 
 6.Normal Forms for data redundancy
 
-7.To know more about project read project_description file.
+=>To know more about this project go checkout all files uploaded in this repo.
