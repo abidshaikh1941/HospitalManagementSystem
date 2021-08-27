@@ -2,6 +2,7 @@
 Project to learn the relational database using postgreSQL as part of DBMS course (sem 1 - MSCIT - DAIICT )
 
 --Implemented following things respectively--
+
 Project Description
 Entity Relationship Diagram
 Relational Model
